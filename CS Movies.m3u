@@ -1,72 +1,285 @@
+#EXTM3U
 
-#EXTINF:0 tvg-id="01" group-title="Hindi Movies" tvg-language="English" tvg-logo="http://cdn1.discoveryftp.net/Movies/English/2020/The%20Witches/poster.jpg",The Watches 2020
-http://cdn1.discoveryftp.net/Movies/English/2020/The%20Witches/The.Witches.2020.1080p.WEBRip.x264.AAC5.1-%5BYTS.MX%5D.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zG2bzwF/IMG-20220730-WA0007.jpg", FREE CSIPTV join us on telegram @csiptvfree
+https://od.lk/s/ODRfNjMzNzUyMTBf/ca%20%28852%20%C3%97%20480%20px%29.mp4
 
-#EXTINF:0 tvg-id="01" group-title="Hindi Movies" tvg-language="Hindi" tvg-logo="http://10.16.100.244/files/jhund__4k_.jpg",Jhund
-http://fs.ebox.live/Movies/Bollywood/2022/Jhund%20[2022]/Jhund%20(2022)%20Hindi%20720p%20WEBRip%20[E-BOX].mkv
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4e/Rtv_bangladesh.svg/1200px-Rtv_bangladesh.svg.png" group-title="Bangla", RTV S2
+http://iptvbd.jagobd.com:1931/live-orgin/rtv-sg.stream/chunks.m3u8
 
-#EXTINF:0 tvg-id="02" group-title="Hindi Movies" tvg-language="Hindi" tvg-logo="https://m.media-amazon.com/images/M/MV5BMDBlM2ZjMWEtYmViOS00NmJhLTk2M2YtMjQ3MjIxYWUyMWU3XkEyXkFqcGdeQXVyMTA5MDQxNDQ2._V1_.jpg",Sharmaji Namkeen (2022) 720p
-http://fs.ebox.live/Movies/Bollywood/2022/Sharmaji%20Namkeen%20[2022]/Sharmaji%20Namkeen%20(2022)%20720p%20[E-BOX].mp4
+#EXTINF:-1 tvg-logo="https://www.indiantelevision.com/sites/default/files/images/tv-images/2014/07/25/akash%20Aath.jpg" group-title="Bangla", Akash Aath
+http://208.86.19.13:81/902.stream/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zG2bzwF/IMG-20220730-WA0007.jpg" group-title="Bangla", Channel 24
+http://iptvbd.jagobd.com:1931/live-orgin/channel24-sg-e8e.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zG2bzwF/IMG-20220730-WA0007.jpg" group-title="Bangla", Nexus TV
+https://bd.jagobd.com:444/live-orgin/nexustv.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zG2bzwF/IMG-20220730-WA0007.jpg" group-title="Bangla", Somoy TV
+http://208.86.19.13:81/693.stream/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zG2bzwF/IMG-20220730-WA0007.jpg" group-title="Bangla", ATN Bangla
+http://iptvbd.jagobd.com:1931/live-orgin/atnbd-8-org.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zG2bzwF/IMG-20220730-WA0007.jpg" group-title="Bangla", BanglaVision
+http://iptvbd.jagobd.com:1931/live-orgin/banglav000.stream/chunks.m3u8
 
-#EXTINF:0 tvg-id="03" group-title="Hindi Movies" tvg-language="Hindi" tvg-logo="https://moviewatchonline.com.pk/wp-content/uploads/2022/02/MV5BNDJhYTdiZGMtMmY4MC00ZDhmLWI2NmQtZDY1N2M2NDA3NzQwXkEyXkFqcGdeQXVyMTc1NjAwNjg40._V1_FMjpg_UX1000_.jpg",Bachchhan Paandey (2022) Hindi 1080p
-http://fs.ebox.live/Movies/Bollywood/2022/Bachchhan%20Paandey%20[2022]/Bachchhan%20Paandey%20(2022)%20Hindi%201080p%20%20-%20[E-BOX].mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zG2bzwF/IMG-20220730-WA0007.jpg" group-title="Bangla", Jamuna TV
+http://iptvbd.jagobd.com:1931/live-orgin/jamuna-test-sample-ok.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zG2bzwF/IMG-20220730-WA0007.jpg" group-title="Bangla", News24
+http://iptvbd.jagobd.com:1931/live-orgin/news24local.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zG2bzwF/IMG-20220730-WA0007.jpg" group-title="Bangla", DBC News
+http://iptvbd.jagobd.com:1931/live-orgin/dbcnews.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zG2bzwF/IMG-20220730-WA0007.jpg" group-title="Bangla", Bangla TV
+http://iptvbd.jagobd.com:1931/live-orgin/banglatvhd.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zG2bzwF/IMG-20220730-WA0007.jpg" group-title="Bangla", Channel I
+http://208.86.19.13:81/653.stream/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zG2bzwF/IMG-20220730-WA0007.jpg" group-title="Bangla", Boishakhi TV
+http://iptvbd.jagobd.com:1931/live-orgin/boishakhitv-org.stream/chunks.m3u8
 
-#EXTINF:0 tvg-id="04" group-title="Hindi Movies" tvg-language="Hindi" tvg-logo="https://eradhe.com/wp-content/uploads/2022/05/Bhool-Bhulaiyaa-2-2022-Hindi-Official-Trailer-1080p-720p-HDRip-Download-1.jpg",Bhool Bhulaiyaa 2 (2022) 
-http://fs.ebox.live/Movies/Bollywood/2022/Bhool%20Bhulaiyaa%202%20[2022]/Bhool%20Bhulaiyaa%202%20(2022)%201080p%20WEBDL%20[E-BOX].mp4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/BTV%20World.png" group-title="Bangla", BTV World
+http://iptvbd.jagobd.com:1931/live-orgin/btvbd-office-sg.stream/chunks.m3u8
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://www.sangeetbangla.com/wp-content/uploads/2017/05/sangeet-bangla-logo-small.png",SangeetBangla
+https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/sangeetbangla/sangeetbangla.isml/sangeetbangla-audio_208482_und=208000-video=877600.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/T38Oiwl.jpg" group-title="Bangla", EKUSHEY TV
+https://ekusheyserver.com/etvlivesn.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/VgY9OSa.png" group-title="Bangla", CCN BANGLA
+http://d1zuxgm0d4hmth.cloudfront.net/cnnbangla/01.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3usnOla.png" group-title="Bangla", NTV [BD]
+http://208.86.19.13:81/652.stream/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/NTV.png" group-title="Bangla", NTV UK
+https://a.jsrdn.com/broadcast/22680_3BR3zocwi9/-0800/c.m3u8
 
-#EXTINF:0 tvg-id="05" group-title="Hindi Movies" tvg-language="Hindi" tvg-logo="https://i0.wp.com/www.hindian.net/wp-content/uploads/2022/04/images-20.jpg",Runway 34 (2022) 1080p HDRip
-http://fs.ebox.live/Movies/Bollywood/2022/Runway%2034%20(2022)/Runway%2034%20(2022)%201080p%20HDRip.mkv
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Independent%20Television.png" group-title="Bangla", Independent TV
+http://iptvbd.jagobd.com:1931/live-orgin/independent-8-org.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="http://103.55.144.46/img/sunbangla.jpg" group-title="Bangla", Sun Bangla
+http://50.7.237.4:8080/SUNBANGLA/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zG2bzwF/IMG-20220730-WA0007.jpg" group-title="Bangla", Mohona
+http://iptvbd.jagobd.com:1931/live-orgin/mohonatv00000223232244556633.stream/chunks.m3u8
 
-#EXTINF:0 tvg-id="06" group-title="Hindi Movies" tvg-language="Hindi" tvg-logo="https://netnaija.in/wp-content/uploads/2021/09/17382/bellbottom-2021-subtitles-hindi-movie.jpg",Bell Bottom (2021) WEBDL-1080p.mkv
-http://fs.ebox.live/Movies/Bollywood/2021/Bell%20Bottom%20(2021)/Bell%20Bottom%20(2021)%20WEBDL-1080p.mkv
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zG2bzwF/IMG-20220730-WA0007.jpg" group-title="Bangla", Movie Bangla
+http://iptvbd.jagobd.com:1931/live-orgin/moviebanglalink2.stream/playlist.m3u8
 
-#EXTINF:0 tvg-id="07" group-title="Hindi Movies" tvg-language="Hindi" tvg-logo="https://st1.bollywoodlife.com/wp-content/uploads/2021/04/radhe.jpg",Radhe (2021)__1080p WEBrip
-http://fs.ebox.live/Movies/Bollywood/2021/Radhe%20[2021]/Radhe%20(2021)__1080p.WEBrip__E-BOX.mkv
+#EXTINF:-1 tvg-logo="https://imgpile.com/images/58iPuS.jpg" group-title="Bangla", I IPTV [BD]
+http://162.244.81.142:1935/live/livestream/chunklist_w1681830417.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/61c0osd7bkne5cd/desh_tv.png" group-title="Bangla", DESH TV
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/131641
 
-#EXTINF:0 tvg-id="08" group-title="Hindi Movies" tvg-language="Hindi" tvg-logo="https://m.media-amazon.com/images/M/MV5BMGJhYjMzOTQtYjQ4Mi00ZmYzLTkxZjMtMjA4NDg0Y2Y1YjVjXkEyXkFqcGdeQXVyMTI1NDAzMzM0._V1_FMjpg_UX1000_.jpg",Bhuj- The Pride of India (2021) WEBDL-1080p
-http://fs.ebox.live/Movies/Bollywood/2021/Bhuj-%20The%20Pride%20of%20India%20(2021)/Bhuj-%20The%20Pride%20of%20India%20(2021)%20WEBDL-1080p%20Proper.mkv
+#EXTINF:-1 tvg-logo="https://imgur.com/HG69Dgb.png" group-title="Bangla", Bangla Talkies
+http://45.127.56.3:7698/live/Corpus-POL/SRV2/4/BANGLA-TALKIES/video.m3u8
 
-#EXTINF:0 tvg-id="09" group-title="Hindi Movies" tvg-language="Hindi" tvg-logo="http://fileserver.ebox.live/movie/poster/poster_1650142088.jpg",Dasvi
-http://fs.ebox.live/Movies/Bollywood/2022/Dasvi%20[2022]/Dasvi%20(2022)%20720p%20[E-BOX].mp4
 
-#EXTINF:0 tvg-id="10" group-title="Hindi Movies" tvg-language="Hindi" tvg-logo="http://10.16.100.244/files/fantastic_beasts_the_secrets_of_dumbledore__hindi___english_.jpeg",FANTASTIC BEASTS THE SECRETS OF DUMBLEDORE (HINDI + ENGLISH)
-http://10.16.100.212/iccftps12/iccftps12sasd4/Movies/Dual%20Audio/Fantastic%20Beasts%20The%20Secrets%20of%20Dumbledore%20(2022)%20(English%20&%20Hindi)%201080p%20WEBRip.mp4
+#EXTINF:-1 tvg-logo="https://imgur.com/KRjdRnV.png" group-title="Hindi", Colors HD
+http://144.217.70.181:9587/hin2/COLORSHD/index.m3u8?token=test
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.doyeltv.com/wp-content/uploads/2021/12/Doyel-TV-Logo-1-212x300.png" group-title="Bangla", DOYEL TV 
+http://ipm.oncast.me:1934/iplived/ip-doyeltv.stream/playlist.m3u8
 
-#EXTINF:0 tvg-id="11" group-title="Hindi Movies" tvg-language="Hindi" tvg-logo="http://10.16.100.244/files/sonic_the_hedgehog_2__hindi___english_.jpg",SONIC THE HEDGEHOG 2 (HINDI + ENGLISH)
-http://10.16.100.212/iccftps12/iccftps12sasd5/Movies/Dual%20Audio/Sonic%20the%20Hedgehog%202%20(2022)%20(Hindi%20&%20English)%201080p%20WEBDL.mp4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg" group-title="Bangla", Star Jalsa sd
+http://102.222.232.18:9981/stream/channelid/1504925537?ticket=56C518288A4256585B8C118EA7CD3307E3929D0D&profile=matroska
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg" group-title="Bangla", Star Jalsa HD
+http://103.132.181.98:81/play/a001
+#EXTINF:-1 tvg-logo="https://cdn.tvpassport.com/image/station/240x135/zee-bangla-logo.png" group-title="Bangla", Zee Bangla HD
+http://50.7.237.4:8080/ZEEBANGLAHD/index.m3u8
+#EXTINF:-1 group-title="Hindi" tvg-logo="https://imgur.com/x2qwIpL.png",Sony HD
+http://50.7.237.4:8080/SONY/index.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/UGKHkDS.png" group-title="Hindi", Star Plus
+http://103.72.179.30:1935/GECHindi/STAR_PLUS.stream_720p/Playlist.m3u8
 
-#EXTINF:0 tvg-id="12" group-title="Hindi Movies" tvg-language="Hindi" tvg-logo="http://10.16.100.244/files/morbius__hindi___english_.jpg",MORBIUS (HINDI + ENGLISH)
-http://10.16.100.202/ftps10/iccftps10sasd4/Movies/Dual%20Audio/Morbius%20(2022)%20(Hindi%20&%20English)%201080p%20WEBRip.mp4
+#EXTINF:-1 group-title="Bangla" tvg-logo="http://103.55.144.46/img/Sony_Aath.png",Sony AATH
+http://50.7.237.4:8080/SONYAATH/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/M6GyIvI.png" group-title="Bangla", Zee Bangla Cinema
+http://208.86.19.13:81/708.stream/index.m3u8
 
-#EXTINF:0 tvg-id="13" group-title="Hindi Movies" tvg-language="Hindi" tvg-logo="http://10.16.100.244/files/master__ma_seu_teo___hindi___korean_.jpg",MASTER
-http://10.16.100.212/iccftps12/iccftps12sasd4/Movies/Dual%20Audio/Master%20(Ma%20seu%20teo)%20(2016)%20(Hindi%20&%20Korena)%20720p%20WEBRip.mp4
+#EXTINF:-1 group-title="Bangla" tvg-logo="http://103.55.144.46/img/colorsbangla.jpg",Colors Bangla HD
+http://208.86.19.13:81/904.stream/index.m3u8
+#EXTINF:-1 group-title="English" tvg-logo="https://imgur.com/iCOQK4B.png", Star Movies HD
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/136629
 
-#EXTINF:0 tvg-id="14" group-title="Hindi Movies" tvg-language="Hindi" tvg-logo="http://10.16.100.244/files/raya_and_the_last_dragon___hindi___english_.jpg",RAYA AND THE LAST DRAGON (HINDI + ENGLISH)
-http://10.16.100.206/ftps3/ftps3d5/Movies/Dual%20Audio/Raya%20and%20The%20Last%20Dragon%20(2021)%20(Hindi%20&%20English)%201080p%20WEBDL.mp4
 
-#EXTINF:0 tvg-id="15" group-title="Hindi Movies" tvg-language="Hindi" tvg-logo="http://10.16.100.244/files/sooryavanshi.jpg",SOORYAVANSHI
-http://10.16.100.212/iccftps12/iccftps12sasd7/Movies/Hindi/Sooryavanshi%20(2021)%201080p%20WEBDL.mp4
+#EXTINF:-1 group-title="Hindi" tvg-logo="http://103.55.144.46/img/sony-maxhd.jpg", Sony Max HD
+http://50.7.237.4:8080/SONYMAXHD/index.m3u8
 
-#EXTINF:0 tvg-id="16" group-title="Hindi Movies" tvg-logo="https://image.tmdb.org/t/p/w185/i60OcGyWKeco1JMS9UfuchvpXYz.jpg" group-title="Groups", Jersey 2022 Hindi
-http://fs.ebox.live/Movies/Bollywood/2022/Jersey%20[2022]/Jersey%20(2022)%20-%20Hindi%20-%20720p%20-HDrip%20[E-BOX].mp4
+#EXTINF:-1 tvg-logo="http://103.55.144.46/img/zeecinemahd.jpg" group-title="Hindi", zee cinema hd
+http://50.7.237.4:8080/ZEECINEMAHD/index.m3u8
+#EXTINF:-1 tvg-logo="http://103.55.144.46/img/stargold.jpg" group-title="Hindi", Star Gold
+http://144.217.70.181:9587/hin2/STARGOLDUK/tracks-v1a1/mono.m3u8?token=test
 
-#EXTINF:0 tvg-id="17" group-title="Hindi Movies" tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/szAa23SWNIgJHsvSRyQrvyFT8ef.jpg" group-title="Groups", Radhe Shyam (2022) Hindi
-http://10.16.100.213/iccftps13/iccftps13sasd5/Movies/South%20Indian%20(Hindi%20Dubbed)/Radhe%20Shyam%20(2022)%201080p%20WEBDL.mp4
+#EXTINF:-1 tvg-logo="http://103.55.144.46/img/stargold.jpg" group-title="Hindi", Star Gold 2
+http://144.217.70.181:9587/hin2/STARGOLD2/tracks-v1a1/mono.m3u8?token=test
 
-#EXTINF:0 tvg-id="18" group-title="Hindi Movies" tvg-logo="https://image.tmdb.org/t/p/w185/mz1BvJDJpjbtJoIgMsmY8HMPGvp.jpg" group-title="Groups", Kurup (2021)
-http://10.16.100.202/ftps10/iccftps10sasd9/Movies/South%20Indian%20(Hindi%20Dubbed)/Kurup%20(2021)%201080p%20WEBDL.mp4
+#EXTINF:-1 tvg-logo="https://q7h8x4g8.stackpathcdn.com/wp-content/uploads/2021/01/Utsav-Gold-250.png" group-title="Hindi", UTSAV Gold
+http://221.120.204.3/NAT-GEO-HD-LOCKLE/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zG2bzwF/IMG-20220730-WA0007.jpg" group-title="Hindi", Bflix Movies
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/136444
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zG2bzwF/IMG-20220730-WA0007.jpg" group-title="Hindi", Colors Cineplex
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/136435
 
-#EXTINF:0 tvg-id="19" group-title="Hindi Movies" tvg-logo="http://images.discoveryftp.net/media/300/Movies/Hindi/2020/Bhoot%20Part%20One%20The%20Haunted%20Ship/poster.jpg" group-title="Groups", Bhoot: Part One – The Haunted Ship (2020) Hindi
-http://fs.ebox.live/Movies/Bollywood/2020/Bhoot%3A%20Part%20One%20-%20The%20Haunted%20Ship%20[2020]/Bhoot%20Part%20One%20-%20The%20Haunted%20Ship%20(2020)%20__1080P.WEBrip__%20[E-BOX].mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zG2bzwF/IMG-20220730-WA0007.jpg" group-title="Hindi", Manoranjan Movies IN.
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/136500
 
-#EXTINF:0 tvg-id="20" group-title="Hindi Movies" tvg-logo="http://fs.ebox.live/Movies/Bollywood/2019/Article%2015%20(2019)/a_AL_.jpg" group-title="Groups", Article 15 (2019) Hindi
-http://fs.ebox.live/Movies/Bollywood/2019/Article%2015%20(2019)/Article%2015%20(2019)%20Hindi%201080p%20WEBRip%20x264%20DD5.1%20ESub%20-%20mkvCinemas.mkv
+#EXTINF:-1 tvg-logo="http://103.55.144.46/img/zeetv.png" group-title="Hindi", ZEE TV
+http://50.7.237.4:8080/ZEETV/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zG2bzwF/IMG-20220730-WA0007.jpg" group-title="Hindi", ZEE ANMOL CINEMA
+http://144.217.70.181:9587/hin2/ZEEANMOLCINEMA/tracks-v1a1/mono.m3u8?token=test
 
-#EXTINF:0 tvg-id="21" group-title="Hindi Movies" tvg-logo="http://images.discoveryftp.net/media/300/Movies/Hindi/2009/13B-Fear%20Has%20a%20New%20Address/poster.jpg" group-title="Groups", 13B: Fear Has a New Address (2009) Hindi
-http://fs.ebox.live/Movies/Bollywood/2009/13B%3A%20Fear%20Has%20a%20New%20Address%20[2009]/13B%3A%20Fear%20Has%20a%20New%20Address%20(2009)%20__1080p.WEBRip__[E-BOX].mp4
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Aaj_Tak.png" group-title="Hindi" , Aaj Tak
+https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
 
-#EXTINF:0 tvg-id="01" group-title="Hindi Movies" tvg-language="Hindi" tvg-logo="http://10.16.100.244/files/cbi_5_the_brain.jpg", CBI 5 THE BRAIN
-http://10.16.100.212/iccftps12/iccftps12sasd10/Movies/South%20Indian%20(Hindi%20Dubbed)/CBI%205%20The%20Brain%20(2022)%201080p%20WEBDL.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vB5TQMg/Star-Gold-Select.jpg" group-title="Hindi", Star Gold Select
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/136582
 
-#EXTINF:0 tvg-id="01" group-title="English Movies" tvg-language="Hindi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFpmAN7lPDpi1YMvuJHtauH-UzdVvUQEaLsw&usqp=CAU", Prey 2022
-http://fs.ebox.live/Movies/Hollywood/2022/Prey%20[2022]/Prey.2022.1080p.WEBRip%20[E-BOX].mp4
+#EXTINF:-1tvg-logo="http://193.70.86.92/chlogo/logo/tv/zz/zee_classic_in.png" group-title="Hindi", Zee Classic
+http://208.86.19.13:81/730.stream/index.m3u8
+#EXTINF:-1tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/MTV-2021.svg" group-title="Hindi", MTV
+http://144.217.70.181:9587/hin2/MTVINDIA/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/B4U%20Movies.png" group-title="Hindi", B4U Movies
+http://144.217.70.181:9587/hin2/B4UMOVIES/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 tvg-logo="ext" group-title="Hindi", B4U Kadak
+http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/wVQwK4D.png" group-title="Hindi", Zee Bollywood
+http://208.86.19.13:81/701.stream/index.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/43/SonySABlogo.png" group-title="Hindi", SONY SAB
+http://208.86.19.13:81/702.stream/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/XsHKNAJ.png" group-title="English", Star World HD
+http://175.107.244.52:4455/play/a01h/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://103.55.144.46/img/tlc.jpeg" group-title="English", TLC HD
+http://175.107.244.52:4455/play/a01p/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zG2bzwF/IMG-20220730-WA0007.jpg" group-title="English", HBO
+https://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zG2bzwF/IMG-20220730-WA0007.jpg" group-title="Music", MASTI
+http://144.217.70.181:9587/hin2/MASTII/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 tvg-logo="http://103.55.144.46/img/zoom.jpg" group-title="Music", Zoom
+http://144.217.70.181:9587/hin2/ZOOM/tracks-v1a1/mono.m3u8?token=test
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/B4U%20Music.png" group-title="Music", B4U Music
+http://208.86.19.13:81/833.stream/index.m3u8
+#EXTINF:-1 ttvg-logo="https://i.imgur.com/WaZyAOE.png" group-title="Music", Gaan Bangla
+http://208.86.19.13:81/612.stream/index.m3u8
+#EXTINF:-1 tvg-logo="https://qqcdnpictest.mxplay.com/pic/0204.MusicIndia.in/en/1x1/208x208/test_pic1552392696883.jpg" group-title="Music", Music India
+http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/musicindia/musicindia.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/Hum_TV_2013.png" group-title="Hindi", HUM TV HD
+http://50.7.237.4:8080/HUMTV/index.m3u8
+#EXTINF:-1 tvg-logo="https://imgpile.com/images/58Mgeh.jpg" group-title="Hindi", Ary Digital HD
+http://208.86.19.13:81/627.stream/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zG2bzwF/IMG-20220730-WA0007.jpg" group-title="Cartoon", Nick 
+http://103.162.136.235:4500/play/a01f/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zG2bzwF/IMG-20220730-WA0007.jpg" group-title="Cartoon", Disney Channel
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/136659
+
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2016/10/Cartoon-Network-logo.jpg" group-title="Cartoon", Cartoon Network
+http://103.157.249.125:201/play/a042/index.m3u8
+#EXTINF:-1 tvg-logo="https://i2.paste.pics/HK7OE.png" group-title="Cartoon", Hungama TV (Hindi-tamil-telegu)
+http://144.217.70.181:9587/hin2/HUNGAMA/tracks-v1a1/mono.m3u8?token=test
+
+#EXTINF:-1 tvg-id="AnimaxAsia.sg" tvg-country="SAS" tvg-language="Chinese;English;Indonesian;Japanese;Malay;Thai;Yue Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Animaxlogo-20160701.png" group-title="Cartoon" user-agent="Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36",Animax Asia (Vietnamese Subs) (720p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
+https://livecdn.fptplay.net/hda3/animaxport_hls.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://ui.cgtn.com/static/ng/resource/images/logo_title.png" group-title="Documentary", CGTN
+http://iptv.prosto.tv:7000/ch84/video.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uQ4iijb.png" group-title="Documentary", NASA TV
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ti0gJR2.png" group-title="Documentary", Animal Planet HD
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/136613
+#EXTINF:-1 tvg-logo="http://103.55.144.46/img/dis.png" group-title="Documentary", Discovery 
+https://livecdn.fptplay.net/hda2/discovery_hls.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://103.55.144.46/img/Nat_Geo_HD.png" group-title="Documentary", National Geographic HD
+http://221.120.204.3/NAT-GEO-HD-LOCKLE/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://103.55.144.46/img/wild.png" group-title="Documentary", Wild HD 
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/30512
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3AVHrhP.png" group-title="English", Channel News Asia
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zG2bzwF/IMG-20220730-WA0007.jpg" group-title="Islamic", ATN Islamic TV
+http://iptvbd.jagobd.com:1931/live-orgin/atnislamictv.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8zmLbfi.png" group-title="Islamic", Peace TV ENG
+http://82.114.67.178:8081/hls/PeaceTV.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zG2bzwF/IMG-20220730-WA0007.jpg" group-title="English", BBC America
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/15156
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zG2bzwF/IMG-20220730-WA0007.jpg" group-title="Sports",SONY Ten 1
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/136578
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zG2bzwF/IMG-20220730-WA0007.jpg" group-title="Sports",SONY Ten 2
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/136666
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zG2bzwF/IMG-20220730-WA0007.jpg" group-title="Sports", Star Sports 1
+http://103.16.24.54:8080/channel1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zG2bzwF/IMG-20220730-WA0007.jpg" group-title="Sports", GTV
+https://live.tvdhaka.com:30443/Channel-1/tracks-v1a1/chunks.m3u8
+#EXTINF:-1 tvg-logo="http://103.55.144.46/img/tsports.jpg" group-title="Sports", T Sports HD
+http://jupiter.bdcabletv.com/T-sp/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zG2bzwF/IMG-20220730-WA0007.jpg" group-title="Sports", Star Sports 2 HD
+http://208.86.19.13:81/715.stream/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://ttensports.com/wp-content/uploads/2019/10/Ten-Cricket.png" group-title="Sports" , TEN CRICKET
+http://103.99.249.107:81/play/a03r
+
+#EXTINF:-1 tvg-logo="https://static.epg.best/my/AstroOnDemand361.my.png" group-title="Sports", ASTRO CRICKET HD
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/115614
+
+#EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/star-sports-3-logo-300x300.jpg" group-title="Sports", STAR SPORTS 3
+http://103.162.136.235:4500/play/a013/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/63/75/65/637565b0b0cc4783fd9685335f215479.jpg" group-title="Sports", SONY SIX HD
+http://50.7.237.4:8080/SONYSIXHD/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zG2bzwF/IMG-20220730-WA0007.jpg" group-title="Sports", Star Sports Select 1 HD
+http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/136612
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zG2bzwF/IMG-20220730-WA0007.jpg" group-title="Sports", Star Sports Select 2 HD
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/136616
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zG2bzwF/IMG-20220730-WA0007.jpg" group-title="Sports", PTV Sports
+http://apex-media.xyz:8080/live/adamryan762@gmail.com/e3QZWRs/1514084.ts
+
+#EXTINF:-1 tvg-logo="http://103.55.144.46/img/ten_sports.jpg" group-title="Sports", Ten Sports
+http://103.157.249.125:201/play/a041/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zG2bzwF/IMG-20220730-WA0007.jpg" group-title="Sports", FOX Sports 1
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/8254
+#EXTINF:-1 tvg-logo="http://193.70.86.92/chlogo/logo/tv/ff/fox_sports2_us.png" group-title="Sports", FOX Sports 2
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/8255
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YcrrywD.png" group-title="Sports", ESPN 2
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/10881
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YcrrywD.png" group-title="Sports", ESPN 3
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/10880
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8IzsrMb.png" group-title="Sports", BT Sport 3
+http://93.152.174.144:4000/play/btsport3/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zG2bzwF/IMG-20220730-WA0007.jpg" group-title="Sports", DUBAI SPORTS
+http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zG2bzwF/IMG-20220730-WA0007.jpg" group-title="Sports", Dubai Sports 2
+http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zG2bzwF/IMG-20220730-WA0007.jpg" group-title="Sports", Dubai Sports 3
+http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/index.m3u8
+
+#EXTINF:-1 tvg-id="AlJazeeraEnglish.qa" tvg-country="INT" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Aljazeera_eng.svg/512px-Aljazeera_eng.svg.png" group-title="English",Al Jazeera English (1080p)
+https://live-hls-web-aje.getaj.net/AJE/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/z5E8vLR.png" group-title="Cartoon",BBC Earth
+https://livecdn.fptplay.net/hda2/bbcearth_hls.smil/master.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/BBC_World_News_2019.svg/512px-BBC_World_News_2019.svg.png" group-title="English",BBC World News
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/254246
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/512px-CGTN.svg.png" group-title="English",CGTN (576p)
+https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
+
+#EXTINF:-1 tvg-id="Thrill.hk" tvg-country="SAS" tvg-language="Chinese;English;Thai" tvg-logo="https://i.imgur.com/isr5jto.png" group-title="English",Thrill (576p)
+http://210.210.155.37/qwr9ew/s/s34/index.m3u8
+#EXTINF:-1 tvg-id="TRTWorld.tr" tvg-country="INT" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/TRT_World.svg/512px-TRT_World.svg.png" group-title="English",TRT World (720p) [Not 24/7]
+https://tv-trtworld.live.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.imgbin.com/8/21/7/imgbin-warner-bros-logo-television-warner-tv-design-yGb2DpBfNG0uJEVSv3vHH2kzs.jpg" group-title="English", Warner hd
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/99491
+#EXTINF:-1 tvg-logo="https://cdn.vectorstock.com/i/1000x1000/38/76/cinema-logo-movie-emblem-template-vector-19873876.webp" group-title="English", Lotus Macau
+http://anren.live/HK/BiIOU11uLA.m3u8
+#EXTINF:-1 tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fvignette.wikia.nocookie.net%2Flogopedia%2Fimages%2F2%2F2a%2FZing-TV.jpg%2Frevision%2Flatest%3Fcb%3D20180711081815&f=1&nofb=1" group-title="Hindi", Zing
+http://50.7.237.4:8080/ZING/index.m3u8
+
+#EXTINF:-1 group-title="Fifa", Fifa japan
+http://redlabmcdn.s.llnwi.net/nv02/ryowa7hd/index.m3u8
+#EXTINF:-1 group-title="Fifa", Tyc Fifa
+https://d3awnlgqz0szay.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index.m3u8
+#EXTINF:-1 group-title="Fifa", arabic fifa
+http://maxfolker.rossteleccom.net/iptv/4N3VF4TY2PZ8R8/2532/index.m3u8
+#EXTINF:-1 group-title="Fifa",
+
+#EXTINF:-1 group-title="Fifa",
+
+#EXTINF:-1 group-title="Fifa",
